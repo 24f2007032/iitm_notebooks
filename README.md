@@ -10,7 +10,7 @@ This repository contains structured and concise notebooks generated using ChatGP
 
 ---
 
-### Why this repo?
+### 📌 Why this repo?
 
 These notes are designed to help students:
 
