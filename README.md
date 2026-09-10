@@ -11,10 +11,13 @@ This repository contains structured and concise notebooks generated using ChatGP
 ---
 
 ### 📌 Why this repo?
+
 These notes are designed to help students:
-- Quickly revise lecture content
-- Prepare for **Quiz 1**
-- Understand difficult concepts with simplified explanations
+
+* Quickly revise lecture content throughout the **entire term**
+* Prepare for **Quiz 1, Quiz 2, and End Term**
+* Understand difficult concepts with simplified explanations
+* Keep all course material and revision notes **in one place**
 
 ---
 
